@@ -1,32 +1,47 @@
-Привет 👋 Меня зовут Грязев Эдуард 
-==============================  
+# Hello, I am Eduard Gryazev - Frontend Developer
 
-Frontend разработчик 
---------------------  
+A passion for programming ignited a spark in me from childhood, and since then, my interest in creating practical solutions has only grown. My journey to becoming a developer began in my school years, and every day I discover new horizons.
 
-Занимался программированием еще в школе начиная с пятого класса. Подтолкнул меня на это старший брат, который сейчас работает в крупной компании сеньором backend разработчиком. 
+## Education
 
-Сейчас прохожу курсы по программированию на Hexlet. Уже реализовал 2 учебных проекта. 
+Taking programming courses at Hexlet has been a significant step in my professional growth. I have already implemented two educational projects, and this is just the beginning!
 
-Мне нравиться этим заниматься, так как я люблю создавать практичные вещи, в детстве делал поделки из дерева. Люблю изучать больше нового и применять свои знания на практике. 
+## My Philosophy
 
-### Навыки  
+I love to create — starting with wooden crafts in childhood and ending with modern web applications. I not only study new things but also strive to apply knowledge in practice. Curiosity and a thirst for knowledge lead me forward.
 
-Хорошо знаю: 
-* JavaScript(Node.js, eslint)
-* git
-* jest
-* HTML, CSS(SCSS) 
+## Skills and Interests
 
-Есть базовые знания:
-* Docker
-* Webpack
+### Professional Skills
 
-Раньше увлекался Python, написал пару Telegram ботов  
+#### Proficient in
+- JavaScript (Node.js, eslint)
+- HTML & CSS (SCSS)
+- Git
+- Jest
 
+#### Basic Knowledge
+- Docker (basics)
+- Webpack (basics)
 
-* 🌍  Живу в Москве * 🧠  На данный момент изучаю React
+### Aspiration for Well-Rounded Development
 
+My professional interests go beyond frontend development. I am purposefully moving towards learning backend technologies and developing desktop and mobile applications.
 
+I strive to be competent in all aspects of programming, and this pushes me towards constant self-improvement. Immersing myself in new technologies and tools allows me to become a versatile specialist capable of implementing complex and high-quality solutions.
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> </p> 
+### Interests Beyond Code
+
+- Previously fascinated by Python and programming Telegram bots.
+- Open to learning and adopting new approaches in technologies and methodologies.
+
+## Personal
+
+🌍 I live and develop in Moscow.
+🧠 Actively studying React and intend to master the full development stack in the near future.
+
+## Join Me on the Path of Development
+
+I am open to new projects, inspiring ideas, and professional communication. If you share my interests or have proposals for collaboration, feel free to contact me.
+
+Let's create something magnificent together! 🚀
